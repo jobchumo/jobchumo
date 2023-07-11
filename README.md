@@ -3,6 +3,8 @@
 VGhpcyBpcyBzb21ldGhpbmcgZW5jb2RlZCBpbiBiYXNlNjQ=
 
 TmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAsIE5ldmVyIGdvbm5hIGxldCB5b3UgZG93bg==
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+there+👋,+I'm+Nelson...;I+like+making+beautiful+code...;That+runs+😂;MARVEL>>>DC😎)](https://git.io/typing-svg)
 <!--
 **jobchumo/jobchumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
